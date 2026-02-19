@@ -1,0 +1,8 @@
+flutter build apk --debug                 
+>> cp build/app/outputs/flutter-apk/app-debug.apk C:/Users/Public/pm_pro_build/app/outputs/apk/debug/app-debug.apk
+
+
+bash run.sh 
+bash arun.sh
+
+flutter run --use-application-binary="C:/Users/Public/pm_pro_build/app/outputs/apk/debug/app-debug.apk" -d LRVWEQ8XJZ89WK4H
